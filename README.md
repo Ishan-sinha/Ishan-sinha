@@ -5,4 +5,4 @@ My [**Github**](https://github.com/Ishan-sinha/) profile potrays my journey from
 [![LinkedIn](https://img.shields.io/static/v1.svg?label=Connect&message=@Ishan&color=grey&logo=linkedin&labelColor=blue&style=social)](https://www.linkedin.com/in/sinha-ishan/)
 [![Instagram](https://img.shields.io/badge/Instagram-follow-blue.svg?logo=instagram&logoColor=white)](https://www.instagram.com/ishhsinha/)
 
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/Ishan-sinha/) [![Visitors](https://visitor-badge.glitch.me/badge?page_id=vinitshahdeo.visitor-badge)](https://github.com/Ishan-sinha/) [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/Ishan-sinha/)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/Ishan-sinha/) [![Visitors](https://visitor-badge.glitch.me/badge?page_id=Ishan-sinha.visitor-badge)](https://github.com/Ishan-sinha/) [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/Ishan-sinha/)
