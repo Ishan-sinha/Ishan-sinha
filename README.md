@@ -7,3 +7,5 @@ My [**Github**](https://github.com/Ishan-sinha/) profile potrays my journey from
 [![Instagram](https://img.shields.io/badge/Instagram-follow-blue.svg?logo=instagram&logoColor=white)](https://www.instagram.com/ishhsinha/)
 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/Ishan-sinha/) [![Visitors](https://visitor-badge.glitch.me/badge?page_id=Ishan-sinha.visitor-badge)](https://github.com/Ishan-sinha/) [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/Ishan-sinha/)
+
+![Ishan's github](https://github-readme-stats.vercel.app/api?username=Ishan-sinha&show_icons=true&hide_border=true)
