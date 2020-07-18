@@ -1,5 +1,5 @@
 <h1>Hi Traveller, I am Ishan</a><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
-<h2><b>Glad to meet you !</b> :trophy:  <h2>
+<h2><b>Glad to meet you !</b> :trophy:  <h2> <br>
 My <a href="https://github.com/Ishan-sinha/"><b>Github</b></a> profile potrays my journey from writing my first <b><i>Hello world</i><b> program in my college to the first <b><i>HTML</i></b> page to my current work on repository <b><i>DSA-for-SDE-Interviews</i></b>. It has been a journey of consecutive efforts and I look forward to more <b>open source</b> projects now. Apart from <a href="https://github.com/Ishan-sinha/">Github</a>, I am always available and working on child empowerment projects. Connect with me on <a href="https://www.linkedin.com/in/sinha-ishan/"><b>LinkedIn</b></a>. Make pull requests and I will be happy to merge them. Also :star: if you like any :hugs: <br>
 
 
@@ -7,7 +7,6 @@ My <a href="https://github.com/Ishan-sinha/"><b>Github</b></a> profile potrays m
 [![Instagram](https://img.shields.io/badge/Instagram-follow-blue.svg?logo=instagram&logoColor=white)](https://www.instagram.com/ishhsinha/)
 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/Ishan-sinha/) 
-[![Visitors](https://visitor-badge.glitch.me/badge?page_id=Ishan-sinha.visitor-badge)](https://github.com/Ishan-sinha/) 
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/Ishan-sinha/)
 
 ![Ishan's github](https://github-readme-stats.vercel.app/api?username=Ishan-sinha&show_icons=true&hide_border=true)
