@@ -12,9 +12,11 @@ Also :star: if you like any :hugs: <br></p>
 
 ![Ishan's github](https://github-readme-stats.vercel.app/api?username=Ishan-sinha&show_icons=true&hide_border=true)
 
+<img src="https://github.com/Ishan-sinha/Ishan-sinha/blob/master/linkedin_banner.png"/>
+
+<p> Find me over : </p>
+
 <a href="https://www.linkedin.com/in/sinha-ishan"><img src="https://github.com/Ishan-sinha/Ishan-sinha/blob/master/logos/linkedin.png" width="50" /></a>
 <a href="https://github.com/Ishan-sinha"><img src="https://github.com/Ishan-sinha/Ishan-sinha/blob/master/logos/github-logo.png" width="50" /></a>
 <a href="https://www.facebook.com/ishan.kumar.16/"><img src="https://github.com/Ishan-sinha/Ishan-sinha/blob/master/logos/facebook.png" width="50" /></a>
 <a href="https://www.instagram.com/ishhsinha"><img src="https://github.com/Ishan-sinha/Ishan-sinha/blob/master/logos/instagram.png" width="50" /></a>
-
-<img src="https://github.com/Ishan-sinha/Ishan-sinha/blob/master/linkedin_banner.png"/>
