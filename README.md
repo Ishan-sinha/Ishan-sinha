@@ -1,5 +1,5 @@
 <h1>Hi Traveller, I'm Ishan</a><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
-<h2><b>Glad to meet you !</b> :trophy:  <h2> 
+<h3><b>Glad to meet you !</b> :trophy:  <h3> 
 <p style = "font-size:12px;" align = "justify">My <a href="https://github.com/Ishan-sinha/"><b>Github</b></a> profile potrays my journey from writing my first <b><i>Hello world</i><b> program in my college to the first <b><i>HTML</i></b> page to my current work on repository <b><i>DSA-for-SDE-Interviews</i></b>. It has been a journey of consecutive efforts and I look forward to more <b>open source</b> projects now. Apart from <a href="https://github.com/Ishan-sinha/">Github</a>, I am always available and working on child empowerment projects. Connect with me on <a href="https://www.linkedin.com/in/sinha-ishan/"><b>LinkedIn</b></a>. Make pull requests and I will be happy to merge them. 
 Also :star: if you like any :hugs: <br></p>
 
