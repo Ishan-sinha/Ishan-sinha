@@ -10,7 +10,10 @@ Also :star: if you like any :hugs: <br></p>
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/Ishan-sinha/) 
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/Ishan-sinha/)
 
-![Ishan's github](https://github-readme-stats.vercel.app/api?username=Ishan-sinha&show_icons=true&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ishan-sinha&layout=compact" alt="Top languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Ishan-sinha&show_icons=true&hide_border=true")
+</p>
 
 <img src="https://github.com/Ishan-sinha/Ishan-sinha/blob/master/linkedin_banner.png"/>
 
