@@ -12,7 +12,7 @@ Also :star: if you like any :hugs: <br></p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ishan-sinha&layout=compact" alt="Top languages"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=Ishan-sinha&show_icons=true&hide_border=true&line_height=20")
+  <img src="https://github-readme-stats.vercel.app/api?username=Ishan-sinha&show_icons=true&line_height=20")
 </p>
 
 <img src="https://github.com/Ishan-sinha/Ishan-sinha/blob/master/linkedin_banner.png"/>
